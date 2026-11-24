@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/samp-trilogy-logo.png" alt="SAMP Trilogy project logo" width="340">
+<img src="assets/samp-trilogy-logo-full.png" alt="SAMP Trilogy project logo" width="340">
 
 # SAMP Trilogy
 
@@ -55,6 +55,7 @@
 Project information and video demonstrations · ข้อมูลโปรเจกต์และวิดีโอตัวอย่าง
 
 </div>
+
 
 
 
